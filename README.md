@@ -1,2 +1,2 @@
 # BTL_DM
-SVM
+Ví dụ về cách sử dụng thuật toán SVM trong ML trên tập dữ liệu iris 
